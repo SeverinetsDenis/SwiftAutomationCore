@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SwiftAutomationCore_Example' do
+  pod 'SwiftAutomationCore', :path => '../'
+
+  target 'SwiftAutomationCore_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
