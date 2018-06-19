@@ -1,0 +1,16 @@
+PODS:
+  - SwiftAutomationCore (0.1.0)
+
+DEPENDENCIES:
+  - SwiftAutomationCore (from `../`)
+
+EXTERNAL SOURCES:
+  SwiftAutomationCore:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SwiftAutomationCore: 44cab9cb069e66d50b3421f83ac2dbccc0333e3c
+
+PODFILE CHECKSUM: 5acf8fda0ba0d5592b1b047fd743df6a3c4e2acc
+
+COCOAPODS: 1.5.3

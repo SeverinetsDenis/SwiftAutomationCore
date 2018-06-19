@@ -1,0 +1,6 @@
+framework module Pods_SwiftAutomationCore_Example {
+  umbrella header "Pods-SwiftAutomationCore_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
