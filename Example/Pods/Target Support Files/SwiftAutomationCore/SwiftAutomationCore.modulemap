@@ -1,0 +1,6 @@
+framework module SwiftAutomationCore {
+  umbrella header "SwiftAutomationCore-umbrella.h"
+
+  export *
+  module * { export * }
+}
